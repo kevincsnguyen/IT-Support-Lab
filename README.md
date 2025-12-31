@@ -4,14 +4,14 @@ This repository demonstrates practical IT support skills using a Windows 11 virt
 
 ## Tickets Included
 
-| Ticket 1 | No Internet Connection (DNS Issue) | Network troubleshooting, DNS cache management, ping tests |
-| Ticket 2 | Slow Computer | System performance analysis, Task Manager, startup optimization |
-| Ticket 3 | File Access / Permission Issue | Windows file/folder permissions, access control, problem-solving |
+| Ticket 1 | No Internet Connection (DNS Issue). 
+| Ticket 2 | Slow Computer | System performance analysis, Task Manager, startup optimization. 
+| Ticket 3 | File Access / Permission Issue. 
 
 
 ## How to Use
-1. Browse the `Tickets/` folder to view each ticket’s markdown documentation.  
-2. Screenshots are included in the `Screenshots/` folder to illustrate each step:
+1. Browse the `Tickets` folder to view each ticket’s markdown documentation.  
+2. Screenshots are included in the `Screenshots` folder to illustrate each step:
    - Before the fix
    - During troubleshooting
    - After resolution  
