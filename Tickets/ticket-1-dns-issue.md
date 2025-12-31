@@ -29,6 +29,6 @@ Flushed DNS cache and restored normal DNS resolution.
 Successfully pinged `google.com` and accessed websites.
 
 ## Screenshots
-![Ping before](../screenshots/ticket1_ping_before.png)
-![Flush DNS](../screenshots/ticket1_flushdns.png)
-![Ping after](../screenshots/ticket1_ping_after.png)
+(../screenshots/ticket1.png)
+
+
