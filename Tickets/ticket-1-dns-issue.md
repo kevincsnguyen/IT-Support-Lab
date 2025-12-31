@@ -29,6 +29,7 @@ Flushed DNS cache and restored normal DNS resolution.
 Successfully pinged `google.com` and accessed websites.
 
 ## Screenshots
-(../screenshots/ticket1.png)
+[Commands](../Screenshots/ticket1.png)
+
 
 
