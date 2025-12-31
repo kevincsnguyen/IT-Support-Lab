@@ -27,6 +27,7 @@ Observed faster response and reduced CPU/RAM usage.
 
 ## Screenshots
 [High CPU](../Screenshots/ticket2-before.png)
-
+[Disabling tasks](../Screenshots/ticket2-progress.png)
 [After Cleanup](../Screenshots/ticket2-after.png)
+
 
