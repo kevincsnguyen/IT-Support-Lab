@@ -5,7 +5,7 @@ This repository demonstrates practical IT support skills using a Windows 11 virt
 ## Tickets Included
 
 - Ticket 1 | No Internet Connection (DNS Issue). 
-- Ticket 2 | Slow Computer | System performance analysis, Task Manager, startup optimization. 
+- Ticket 2 | Slow Computer
 - Ticket 3 | File Access / Permission Issue. 
 
 
