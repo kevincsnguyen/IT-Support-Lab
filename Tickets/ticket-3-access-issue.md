@@ -30,7 +30,8 @@ User successfully opened and accessed files in the folder.
 
 ## Screenshots
 [Before](../Screenshots/ticket3-before.png)
-[Process](../Screenshots/ticket2-process.png)
+[Progress](../Screenshots/ticket2-progress.png)
 [After](../Screenshots/ticket2-after.png)
+
 
 
