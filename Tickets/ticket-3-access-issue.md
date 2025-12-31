@@ -29,6 +29,8 @@ Restored proper folder permissions for the user account.
 User successfully opened and accessed files in the folder.
 
 ## Screenshots
-[Before]ticket3-before.png
-[Process]ticket3-progress.png
-[After]ticket3-after.png
+[Before](../Screenshots/ticket3-before.png)
+[Process](../Screenshots/ticket2-process.png)
+[After](../Screenshots/ticket2-after.png)
+
+
