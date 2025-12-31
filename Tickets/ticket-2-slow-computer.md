@@ -26,5 +26,6 @@ Ended unnecessary processes and disabled non-essential startup apps.
 Observed faster response and reduced CPU/RAM usage.
 
 ## Screenshots
-[High CPU](ticket2-before.png)
+[High CPU](../Screenshots/ticket2-before.png)
+
 [After Cleanup](ticket2-after.png)
