@@ -1,49 +1,44 @@
-# IT Support Lab
+# IT Support & System Administration Labs
+
 ## Overview
-This repository demonstrates practical IT support skills using a Windows 11 virtual lab environment. The lab simulates common real-world IT support scenarios and shows how problems were diagnosed and resolved.  
+This repository showcases hands-on IT support and system administration experience using **Windows** and **Linux** virtual lab environments. The labs simulate real-world IT scenarios involving troubleshooting, access control, and system optimization.
 
-## Tickets Included
+These projects are designed for **entry-level IT Support and Help Desk roles**.
 
-- Ticket 1 | No Internet Connection (DNS Issue). 
-- Ticket 2 | Slow Computer
-- Ticket 3 | File Access / Permission Issue. 
+---
 
+## Lab Areas
 
-## How to Use
-1. Browse the `Tickets` folder to view each ticket’s markdown documentation.  
-2. Screenshots are included in the `Screenshots` folder to illustrate each step:
-   - Before the fix
-   - During troubleshooting
-   - After resolution  
+### Windows Support Labs
+- DNS connectivity troubleshooting using Command Prompt
+- System performance analysis and startup optimization
+- File and folder permission management
 
-3. Each ticket contains:
-   - **Issue description**  
-   - **Environment**  
-   - **Tools used**  
-   - **Troubleshooting steps**  
-   - **Root cause and resolution**  
-   - **Verification and screenshots**  
+### Linux System Administration Labs
+- Auditing file and directory permissions using `ls -la`
+- Enforcing least-privilege access with `chmod`
+- Securing sensitive files and restricting directory access
 
+---
 
 ## Skills Demonstrated
-- **Network Troubleshooting:** Using `ipconfig` and `ping` to diagnose DNS issues.  
-- **System Optimization:** Identifying resource bottlenecks, ending unnecessary processes, and managing startup programs.  
-- **File/Folder Permissions:** Diagnosing access issues and restoring proper user permissions.  
-- **Documentation:** Clear, step-by-step markdown with screenshots suitable for IT support workflows.  
+- Windows & Linux troubleshooting
+- DNS and network diagnostics
+- File system permissions and access control
+- Command-line usage (CMD, Bash)
+- Documentation with screenshots
+- Virtual lab environments (VirtualBox)
 
+---
 
-## Tools and Environment
-- Windows 11 Virtual Machine  
-- Command Prompt  
-- Task Manager  
-- Security Tab  
-- VirtualBox VM environment
+## Tools & Technologies
+- Windows 10 / 11
+- Linux
+- Command Prompt, Bash
+- VirtualBox
 
+---
 
 ## Summary
-This project demonstrates the ability to:
-- Identify and solve common IT issues in a virtual lab  
-- Document troubleshooting steps professionally  
-- Present results clearly with screenshots  
-
+This project demonstrates practical IT support skills including system troubleshooting, access management, and professional documentation suitable for entry-level IT roles.
 
